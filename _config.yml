@@ -18,7 +18,7 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vx86's Cybersec Blog                          # the main title
+title: Vx86 Cybersec                       # the main title
 
 tagline: Security blog about CTF Write-ups, Researches, Tools and such   # it will display as the sub-title
 
