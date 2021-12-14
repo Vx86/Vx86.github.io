@@ -2,7 +2,7 @@
 title: Hello World 
 date: 2021-12-13 13:20:00 +0100
 categories: [Blog]
-tags: [blog]     # TAG names should always be lowercase
+tags: [blog]
 ---
 
 # Hello World ! 💻
